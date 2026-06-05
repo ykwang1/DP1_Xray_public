@@ -25,6 +25,6 @@ eRASS1 main catalog: https://erosita.mpe.mpg.de/dr1/AllSkySurveyData_dr1/Catalog
 ...
 ## Notebooks
 
-Notebooks in `notebooks\data_processing` provide all the code to generate the final data products. Notebooks in `notebooks\analysis`  contain the code to generate figures.  
+Notebooks in `notebooks/data_processing` provide all the code to generate the final data products. Notebooks in `notebooks/analysis`  contain the code to generate figures.  
 
 The notebook `notebooks/analysis/make_plots.ipynb` touches most of the files available in `data/final_data_products` and produces the plots in the paper  
